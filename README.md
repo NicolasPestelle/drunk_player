@@ -1,7 +1,7 @@
 # Drunk_player
 ## Dépendance
--OpenCV
--boost
+*OpenCV
+*boost
 ## Compilation
 ```
 mkdir build
