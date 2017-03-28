@@ -1,15 +1,15 @@
-#Drunk_player
-##Dépendance
+# Drunk_player
+## Dépendance
 -OpenCV
 -boost
-##Compilation
+## Compilation
 ```
 mkdir build
 cd build
 cmake ..
 make
 ```
-##Utilisation
+## Utilisation
 ```
 ./drunk_player_gui.out ../data/
 ```
